@@ -1,0 +1,8 @@
+com\mns\atl\util\TestUtil.class
+com\mns\travelsite\base\TestBase.class
+pageLibrary\LoginPage.class
+com\mns\atl\pages\Home.class
+com\mns\atl\pages\LoginPage.class
+pageLibrary\HomePage.class
+pageLibrary\Registration.class
+com\mns\atl\pages\Registration.class

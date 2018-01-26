@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.mns.atl.TravelSite.SpiceJetTest">
+        <methods>
+          <include name="flightNoTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.mns.atl.TravelSite.SpiceJetTest -->
+      <class name="com.mns.atl.TravelSite.RegistrationTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mns.atl.TravelSite.RegistrationTest -->
+      <class name="com.mns.atl.TravelSite.LoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginPageTest"/>
+        </methods>
+      </class> <!-- com.mns.atl.TravelSite.LoginTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
